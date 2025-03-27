@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd83e8f8-70f1-434a-b8f1-06330aea5df2" name="Changes" comment="feat: TP04">
+      <change afterPath="$PROJECT_DIR$/.idea/TPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo1/Ex01/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo1/Ex02/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo2/Ex01/Ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo2/Ex02/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo3/Ex01/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo3/Ex02/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo4/Ex01/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo4/Ex02/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo5/Ex01/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP05/Grupo5/Ex02/Ex02.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2t58ZJNEg3Rp8yhIJReldsi6lwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ex01 (1).executor": "Run",
+    "Python.Ex01 (2).executor": "Run",
+    "Python.Ex01.executor": "Run",
+    "Python.Ex02 (1).executor": "Run",
+    "Python.Ex02 (2).executor": "Run",
+    "Python.Ex02.executor": "Run",
+    "Python.Ex03.executor": "Run",
+    "Python.Ex04.executor": "Run",
+    "Python.Ex1 (1).executor": "Run",
+    "Python.Ex1 (2).executor": "Run",
+    "Python.Ex1.executor": "Run",
+    "Python.Ex2 (1).executor": "Run",
+    "Python.Ex2.executor": "Run",
+    "Python.Ex21.executor": "Run",
+    "Python.Ex3 (1).executor": "Run",
+    "Python.Ex3.executor": "Run",
+    "Python.Ex4 (1).executor": "Run",
+    "Python.Ex4.executor": "Run",
+    "Python.generate_graphs.executor": "Run",
+    "Python.grupo2.executor": "Run",
+    "Python.grupo2_graphs.executor": "Run",
+    "Python.grupo3.executor": "Run",
+    "Python.grupo3_graphs.executor": "Run",
+    "Python.heap_operation_analyzer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TP05/Grupo4/Ex01" />
+      <recent name="$PROJECT_DIR$/TP05" />
+      <recent name="$PROJECT_DIR$/TP04/Grupo1" />
+      <recent name="$PROJECT_DIR$/TP04" />
+      <recent name="$PROJECT_DIR$/TP04/Ex01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ex02">
+    <configuration name="Ex01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TPs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP05/Grupo5/Ex01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP05/Grupo5/Ex01/Ex01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TPs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP05/Grupo4/Ex01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP05/Grupo4/Ex01/Ex01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TPs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP05/Grupo4/Ex02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP05/Grupo4/Ex02/Ex02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex02 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TPs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP05/Grupo3/Ex02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP05/Grupo3/Ex02/Ex02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TPs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP05/Grupo5/Ex02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP05/Grupo5/Ex02/Ex02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ex02" />
+        <item itemvalue="Python.Ex01 (1)" />
+        <item itemvalue="Python.Ex02 (1)" />
+        <item itemvalue="Python.Ex01" />
+        <item itemvalue="Python.Ex02 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd83e8f8-70f1-434a-b8f1-06330aea5df2" name="Changes" comment="" />
+      <created>1739630628165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739630628165</updated>
+      <workItem from="1739630629167" duration="8807000" />
+      <workItem from="1739739774227" duration="14904000" />
+      <workItem from="1741189088727" duration="13000" />
+      <workItem from="1741909222769" duration="13000" />
+      <workItem from="1742156171925" duration="10970000" />
+      <workItem from="1742266030227" duration="72000" />
+      <workItem from="1742837131807" duration="10880000" />
+      <workItem from="1743112325220" duration="4608000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: TP03">
+      <option name="closed" value="true" />
+      <created>1739798801273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739798801273</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: TP04">
+      <option name="closed" value="true" />
+      <created>1742266095121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742266095121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: TP03" />
+    <MESSAGE value="feat: TP04" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: TP04" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TPs$grupo3.coverage" NAME="grupo3 Coverage Results" MODIFIED="1742164622837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Grupo3" />
+    <SUITE FILE_PATH="coverage/TPs$generate_graphs.coverage" NAME="generate_graphs Coverage Results" MODIFIED="1742161978374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Ex04" />
+    <SUITE FILE_PATH="coverage/TPs$Ex1__2_.coverage" NAME="Ex1 (2) Coverage Results" MODIFIED="1739748184520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo3/Ex1" />
+    <SUITE FILE_PATH="coverage/TPs$grupo3_graphs.coverage" NAME="grupo3_graphs Coverage Results" MODIFIED="1742164567753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Grupo3" />
+    <SUITE FILE_PATH="coverage/TPs$Ex02__2_.coverage" NAME="Ex02 (2) Coverage Results" MODIFIED="1743113608959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo3/Ex02" />
+    <SUITE FILE_PATH="coverage/TPs$Ex01__2_.coverage" NAME="Ex01 (2) Coverage Results" MODIFIED="1743112984812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo3/Ex01" />
+    <SUITE FILE_PATH="coverage/TPs$Ex2.coverage" NAME="Ex2 Coverage Results" MODIFIED="1739748724812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo3/Ex2" />
+    <SUITE FILE_PATH="coverage/TPs$grupo2.coverage" NAME="grupo2 Coverage Results" MODIFIED="1742162460834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Grupo2" />
+    <SUITE FILE_PATH="coverage/TPs$Ex03.coverage" NAME="Ex03 Coverage Results" MODIFIED="1742165628283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Grupo4/Ex03" />
+    <SUITE FILE_PATH="coverage/TPs$Ex21.coverage" NAME="Ex21 Coverage Results" MODIFIED="1742847101789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo2/Ex01" />
+    <SUITE FILE_PATH="coverage/TPs$Ex1__1_.coverage" NAME="Ex1 (1) Coverage Results" MODIFIED="1739741150278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo2/Ex1" />
+    <SUITE FILE_PATH="coverage/TPs$Ex3__1_.coverage" NAME="Ex3 (1) Coverage Results" MODIFIED="1739749095765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo3/Ex3" />
+    <SUITE FILE_PATH="coverage/TPs$Ex4.coverage" NAME="Ex4 Coverage Results" MODIFIED="1739797247506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo4/Ex4" />
+    <SUITE FILE_PATH="coverage/TPs$Ex2__1_.coverage" NAME="Ex2 (1) Coverage Results" MODIFIED="1739750272575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo4/Ex2" />
+    <SUITE FILE_PATH="coverage/TPs$Ex01.coverage" NAME="Ex01 Coverage Results" MODIFIED="1743114506672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo4/Ex01" />
+    <SUITE FILE_PATH="coverage/TPs$heap_operation_analyzer.coverage" NAME="heap_operation_analyzer Coverage Results" MODIFIED="1742160280415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/heap" />
+    <SUITE FILE_PATH="coverage/TPs$Ex04.coverage" NAME="Ex04 Coverage Results" MODIFIED="1742165651105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Grupo4/Ex04" />
+    <SUITE FILE_PATH="coverage/TPs$Ex1.coverage" NAME="Ex1 Coverage Results" MODIFIED="1739749441305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo4/Ex1" />
+    <SUITE FILE_PATH="coverage/TPs$Ex01__1_.coverage" NAME="Ex01 (1) Coverage Results" MODIFIED="1743115786156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo5/Ex01" />
+    <SUITE FILE_PATH="coverage/TPs$Ex02.coverage" NAME="Ex02 Coverage Results" MODIFIED="1743116095582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo5/Ex02" />
+    <SUITE FILE_PATH="coverage/TPs$Ex02__1_.coverage" NAME="Ex02 (1) Coverage Results" MODIFIED="1743115220396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP05/Grupo4/Ex02" />
+    <SUITE FILE_PATH="coverage/TPs$grupo2_graphs.coverage" NAME="grupo2_graphs Coverage Results" MODIFIED="1742162664115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP04/Grupo2" />
+    <SUITE FILE_PATH="coverage/TPs$Ex4__1_.coverage" NAME="Ex4 (1) Coverage Results" MODIFIED="1739747793078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo2/Ex4" />
+    <SUITE FILE_PATH="coverage/TPs$Ex3.coverage" NAME="Ex3 Coverage Results" MODIFIED="1739749934088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grupo4/Ex3" />
+  </component>
+</project>
